@@ -1,0 +1,21 @@
+body{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    border: none;
+    outline: none;
+    background-color:#E9ECEF;
+}
+.title{
+    text-align: center;
+}
+.paragraph{
+    text-align: center;
+}
+.col-md-4{
+    height: 400px;
+}
+.card-img-top{
+    max-height: 300px;
+}
